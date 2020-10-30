@@ -6,44 +6,46 @@
    "children": [
     {"name": "SNF", "size": 3},
     {
-     "name": "My Account",
+     "name": "Espace collaborateur",
      "children": [
-      {
-        "name": "Connection",
-        "children": [
-         {"name": "Lost password", "size": 3},
-         {"name": "Lost username", "size": 2},
-         {"name": "Wait for login page", "size": 1}
-        ]
-       },
        {
-        "name": "My Plan",
+        "name": "Mon espace",
         "children": [
          {"name": "I paid but it doesn't show", "size": 3},
          {"name": "What's included", "size": 1}
         ]
        },
        {
-        "name": "Personal data",
+        "name": "Données personnelles",
         "children": [
-         {"name": "Error in profile", "size": 1},
-         {"name": "Change email adress", "size": 2},
-         {"name": "Change mail adress", "size": 1}
+         {"name": "Changer mes informations", "size": 1},
+         {"name": "Changer mon mot de passe", "size": 2},
+         {"name": "Changer mes abonnements", "size": 1}
         ]
        }
      ]
     },
     {
-     "name": "Web",
+      "name": "Mes accès rapides",
+      "children": [
+       {"name": "Issue", "size": 2},
+       {"name": "Issue", "size": 2},
+       {"name": "Issue", "size": 2}
+      ]
+     },
+    {
+     "name": "Forums",
      "children": [
-      {"name": "Issue", "size": 3},
-      {"name": "Issue", "size": 1},
+      {"name": "Issue", "size": 2},
+      {"name": "Issue", "size": 2},
+      {"name": "Issue", "size": 2},
+      {"name": "Issue", "size": 2},
       {"name": "Issue", "size": 2},
       {"name": "Issue", "size": 2}
      ]
     },
     {
-     "name": "Mobile",
+     "name": "Actualités",
      "children": [
       {"name": "Issue", "size": 1},
       {"name": "Issue", "size": 1},
