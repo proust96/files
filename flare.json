@@ -18,9 +18,9 @@
        {
         "name": "Données personnelles",
         "children": [
-         {"name": "Changer mes informations", "size": 1},
-         {"name": "Changer mon mot de passe", "size": 2},
-         {"name": "Changer mes abonnements", "size": 1}
+         {"name": "Mes informations", "size": 1},
+         {"name": "Changer mot de passe", "size": 2},
+         {"name": "Mes préférences", "size": 1}
         ]
        }
      ]
@@ -47,10 +47,10 @@
     {
      "name": "Actualités",
      "children": [
-      {"name": "Issue", "size": 1},
-      {"name": "Issue", "size": 1},
-      {"name": "Issue", "size": 3},
-      {"name": "Issue", "size": 1}
+      {"name": "COVID-19", "size": 3},
+      {"name": "Grippe saisonnière", "size": 1},
+      {"name": "Mal de dos", "size": 1},
+      {"name": "TAD", "size": 2}
      ]
     }
    ]
