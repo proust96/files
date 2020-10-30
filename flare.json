@@ -1,0 +1,58 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "Support",
+   "children": [
+    {"name": "SNF", "size": 3},
+    {
+     "name": "My Account",
+     "children": [
+      {
+        "name": "Connection",
+        "children": [
+         {"name": "Lost password", "size": 3},
+         {"name": "Lost username", "size": 2},
+         {"name": "Wait for login page", "size": 1}
+        ]
+       },
+       {
+        "name": "My Plan",
+        "children": [
+         {"name": "I paid but it doesn't show", "size": 3},
+         {"name": "What's included", "size": 1}
+        ]
+       },
+       {
+        "name": "Personal data",
+        "children": [
+         {"name": "Error in profile", "size": 1},
+         {"name": "Change email adress", "size": 2},
+         {"name": "Change mail adress", "size": 1}
+        ]
+       }
+     ]
+    },
+    {
+     "name": "Web",
+     "children": [
+      {"name": "Issue", "size": 3},
+      {"name": "Issue", "size": 1},
+      {"name": "Issue", "size": 2},
+      {"name": "Issue", "size": 2}
+     ]
+    },
+    {
+     "name": "Mobile",
+     "children": [
+      {"name": "Issue", "size": 1},
+      {"name": "Issue", "size": 1},
+      {"name": "Issue", "size": 3},
+      {"name": "Issue", "size": 1}
+     ]
+    }
+   ]
+  }
+  ]
+
+}
